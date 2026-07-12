@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kennti — نماذج التصميم · qSOFA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blue:#2563EB; --blue2:#1D4ED8; --soft:#60A5FA; --rose:#D94F78;
+    --ink:#0F172A; --heading:#1E293B; --sub:#94A3B8; --border:rgba(255,255,255,.10);
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{
+    font-family:'Cairo','Poppins',sans-serif;
+    background:radial-gradient(1200px 700px at 80% -10%,rgba(37,99,235,.22),transparent 60%),
+               radial-gradient(900px 600px at 0% 110%,rgba(217,79,120,.14),transparent 55%),
+               #070B18;
+    color:#E7ECF5; min-height:100vh; padding:56px 24px 80px;
+  }
+  .wrap{max-width:1200px;margin:0 auto;}
+  .top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-bottom:8px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand img{width:44px;height:44px;}
+  .brand span{font-family:'Poppins';font-weight:700;font-size:24px;letter-spacing:.3px;}
+  .kicker{font-family:'Poppins';font-weight:600;letter-spacing:5px;font-size:13px;
+    color:var(--soft);text-transform:uppercase;}
+  h1{font-family:'Cairo';font-weight:700;font-size:clamp(30px,5vw,52px);line-height:1.2;
+    margin:18px 0 10px;letter-spacing:-.5px;}
+  h1 b{color:var(--soft);}
+  .lead{font-family:'Cairo';font-weight:400;font-size:clamp(16px,2.4vw,21px);color:#AEB9CE;
+    max-width:760px;line-height:1.7;}
+  .verified{display:inline-flex;align-items:center;gap:10px;margin-top:22px;
+    background:rgba(46,158,68,.12);border:1px solid rgba(46,158,68,.4);color:#7EE29A;
+    font-family:'Cairo';font-weight:600;font-size:15px;padding:9px 18px;border-radius:999px;}
+  .verified::before{content:'✓';font-weight:700;}
+  .pick{margin-top:40px;font-family:'Cairo';font-weight:700;font-size:clamp(20px,3vw,28px);}
+  .pick small{display:block;font-weight:400;font-size:16px;color:var(--sub);margin-top:6px;font-family:'Poppins';direction:ltr;text-align:right;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:28px;margin-top:28px;}
+  .card{background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:22px;
+    overflow:hidden;transition:transform .3s cubic-bezier(.25,1,.5,1),box-shadow .3s,border-color .3s;}
+  .card:hover{transform:translateY(-6px);border-color:rgba(96,165,250,.45);
+    box-shadow:0 24px 60px rgba(37,99,235,.22);}
+  .card img{width:100%;display:block;aspect-ratio:1/1;object-fit:cover;background:#0A1024;}
+  .meta{padding:20px 22px;}
+  .badge{display:inline-block;font-family:'Poppins';font-weight:600;font-size:12px;letter-spacing:1.5px;
+    text-transform:uppercase;color:var(--soft);background:rgba(96,165,250,.12);
+    padding:5px 12px;border-radius:999px;margin-bottom:12px;}
+  .card h3{font-family:'Cairo';font-weight:700;font-size:22px;margin-bottom:6px;}
+  .card p{font-family:'Cairo';font-weight:400;font-size:15px;color:#9FAAC0;line-height:1.6;}
+  .num{font-family:'Poppins';font-weight:700;color:rgba(255,255,255,.14);font-size:34px;float:left;line-height:1;}
+  footer{margin-top:56px;text-align:center;color:var(--sub);font-family:'Cairo';font-size:14px;line-height:1.8;}
+  footer a{color:var(--soft);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="brand">
+      <img src="https://raw.githubusercontent.com/kennti/x/main/logo.png" onerror="this.style.display='none'" alt="">
+      <span>Kennti</span>
+    </div>
+    <div class="kicker">Design Studio · Sepsis / qSOFA</div>
+  </div>
+
+  <h1>خمسة نماذج تصميم بريميوم<br>لموضوع واحد — <b>اختر الأنسب</b></h1>
+  <p class="lead">نفس المحتوى الطبّي المتحقَّق (معايير qSOFA للإنتان)، بخمس لغاتٍ بصرية مختلفة تماماً:
+    من البطاقة السينمائية إلى الجدول ثنائي اللغة إلى الحالة السريرية. كل نموذج جاهز للنشر على إنستغرام.</p>
+  <div class="verified">محتوى متحقَّق طبّياً · 4/4 نقاط · المصدر: AWMF 079-001</div>
+
+  <div class="pick">أيّ تصميم يعجبك؟
+    <small>Pick your favourite — then we publish only that one.</small>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <img src="hero.png" alt="نموذج البطاقة السينمائية">
+      <div class="meta"><span class="num">01</span>
+        <span class="badge">Editorial Hero</span>
+        <h3>البطاقة السينمائية</h3>
+        <p>خلفية طبّية مولّدة + خطّاف واحد قويّ. للفت الانتباه في الفيد.</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="numbered.png" alt="نموذج النقاط المرقّمة">
+      <div class="meta"><span class="num">02</span>
+        <span class="badge">Numbered · Carousel</span>
+        <h3>النقاط المرقّمة</h3>
+        <p>أربع نقاط تعليمية بترقيم تحريري — تُحفظ للمراجعة قبل الامتحان.</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="myth.png" alt="نموذج خطأ مقابل صواب">
+      <div class="meta"><span class="num">03</span>
+        <span class="badge">Myth vs Fact</span>
+        <h3>خطأ ↔ صواب</h3>
+        <p>يواجه الفخّ الأشهر مباشرة: هل يُشخّص qSOFA الإنتان؟ تباين قويّ يجذب.</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="table.png" alt="نموذج جدول المصطلحات">
+      <div class="meta"><span class="num">04</span>
+        <span class="badge">Terminologie</span>
+        <h3>جدول عربي ↔ ألماني</h3>
+        <p>المعايير الثلاثة بمصطلحاتها الألمانية وقيمها — نيتش كينتي بلا منافس.</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="case.png" alt="نموذج الحالة السريرية">
+      <div class="meta"><span class="num">05</span>
+        <span class="badge">Klinischer Fall</span>
+        <h3>حالة سريرية</h3>
+        <p>حالة مريض تحاكي بنية امتحان KP الشفهي — تطبيق حيّ للمعايير.</p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    جميع النماذج بدقّة 2160×2160 · العربي مرسوم بمحرّك Chromium (متّصل صحيح) · الرموز الطبّية معزولة LTR (لا انعكاس)<br>
+    Kennti · Sepsis-Serie · محتوى صفر-هلوسة
+  </footer>
+</div>
+</body>
+</html>
