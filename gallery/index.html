@@ -43,7 +43,24 @@
     overflow:hidden;transition:transform .3s cubic-bezier(.25,1,.5,1),box-shadow .3s,border-color .3s;}
   .card:hover{transform:translateY(-6px);border-color:rgba(96,165,250,.45);
     box-shadow:0 24px 60px rgba(37,99,235,.22);}
-  .card img{width:100%;display:block;aspect-ratio:1/1;object-fit:cover;background:#0A1024;}
+  .card img{width:100%;display:block;aspect-ratio:1/1;object-fit:cover;background:#0A1024;cursor:zoom-in;}
+  .imgwrap{position:relative;}
+  .imgwrap::after{content:'⤢ اضغط للتكبير';position:absolute;top:14px;left:14px;
+    font-family:'Cairo';font-weight:600;font-size:13px;color:#fff;background:rgba(7,11,24,.62);
+    border:1px solid rgba(255,255,255,.18);padding:7px 12px;border-radius:999px;
+    opacity:0;transition:opacity .25s;pointer-events:none;backdrop-filter:blur(4px);}
+  .card:hover .imgwrap::after{opacity:1;}
+  /* Lightbox */
+  #lb{position:fixed;inset:0;z-index:100;display:none;align-items:center;justify-content:center;
+    background:rgba(4,7,15,.94);backdrop-filter:blur(8px);padding:24px;cursor:zoom-out;}
+  #lb.open{display:flex;}
+  #lb img{max-width:min(92vw,960px);max-height:92vh;width:auto;height:auto;border-radius:18px;
+    box-shadow:0 30px 90px rgba(0,0,0,.6);border:1px solid rgba(255,255,255,.12);}
+  #lb .full{position:absolute;bottom:26px;left:50%;transform:translateX(-50%);
+    font-family:'Cairo';font-weight:600;font-size:15px;color:#cfe0ff;text-decoration:none;
+    background:rgba(37,99,235,.22);border:1px solid rgba(96,165,250,.4);padding:10px 20px;border-radius:999px;}
+  #lb .x{position:absolute;top:24px;right:28px;color:#fff;font-size:34px;font-family:'Poppins';
+    font-weight:400;line-height:1;opacity:.8;cursor:pointer;}
   .meta{padding:20px 22px;}
   .badge{display:inline-block;font-family:'Poppins';font-weight:600;font-size:12px;letter-spacing:1.5px;
     text-transform:uppercase;color:var(--soft);background:rgba(96,165,250,.12);
@@ -76,7 +93,7 @@
 
   <div class="grid">
     <div class="card">
-      <img src="hero.png" alt="نموذج البطاقة السينمائية">
+      <div class="imgwrap"><img src="hero.png" alt="نموذج البطاقة السينمائية" onclick="openLB(\'hero.png\')"></div>
       <div class="meta"><span class="num">01</span>
         <span class="badge">Editorial Hero</span>
         <h3>البطاقة السينمائية</h3>
@@ -84,7 +101,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="numbered.png" alt="نموذج النقاط المرقّمة">
+      <div class="imgwrap"><img src="numbered.png" alt="نموذج النقاط المرقّمة" onclick="openLB(\'numbered.png\')"></div>
       <div class="meta"><span class="num">02</span>
         <span class="badge">Numbered · Carousel</span>
         <h3>النقاط المرقّمة</h3>
@@ -92,7 +109,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="myth.png" alt="نموذج خطأ مقابل صواب">
+      <div class="imgwrap"><img src="myth.png" alt="نموذج خطأ مقابل صواب" onclick="openLB(\'myth.png\')"></div>
       <div class="meta"><span class="num">03</span>
         <span class="badge">Myth vs Fact</span>
         <h3>خطأ ↔ صواب</h3>
@@ -100,7 +117,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="table.png" alt="نموذج جدول المصطلحات">
+      <div class="imgwrap"><img src="table.png" alt="نموذج جدول المصطلحات" onclick="openLB(\'table.png\')"></div>
       <div class="meta"><span class="num">04</span>
         <span class="badge">Terminologie</span>
         <h3>جدول عربي ↔ ألماني</h3>
@@ -108,7 +125,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="case.png" alt="نموذج الحالة السريرية">
+      <div class="imgwrap"><img src="case.png" alt="نموذج الحالة السريرية" onclick="openLB(\'case.png\')"></div>
       <div class="meta"><span class="num">05</span>
         <span class="badge">Klinischer Fall</span>
         <h3>حالة سريرية</h3>
@@ -122,5 +139,22 @@
     Kennti · Sepsis-Serie · محتوى صفر-هلوسة
   </footer>
 </div>
+  <div id="lb" onclick="closeLB(event)">
+    <span class="x" onclick="closeLB(event)">×</span>
+    <img id="lb-img" src="" alt="">
+    <a id="lb-full" class="full" href="#" target="_blank" rel="noopener">فتح الصورة الأصلية بدقّة 2160×2160 ↗</a>
+  </div>
+  <script>
+    function openLB(src){var lb=document.getElementById('lb');
+      document.getElementById('lb-img').src=src;
+      document.getElementById('lb-full').href=src;
+      lb.classList.add('open');document.body.style.overflow='hidden';}
+    function closeLB(e){var t=e.target;
+      if(t.id==='lb'||t.className==='x'||t.id==='lb-img'){
+        document.getElementById('lb').classList.remove('open');
+        document.body.style.overflow='';}}
+    document.addEventListener('keydown',function(e){if(e.key==='Escape'){
+      document.getElementById('lb').classList.remove('open');document.body.style.overflow='';}});
+  </script>
 </body>
 </html>
