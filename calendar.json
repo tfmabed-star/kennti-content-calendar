@@ -1,0 +1,369 @@
+{
+  "generated": "2026-07-14",
+  "timezone": "Europe/Berlin",
+  "note": "PREP ONLY — n8n schedule not activated. export_calendar.py round-robins the 5 verified assets (4,85,141,821,829); daily_publish.py's asset-picker is separate and untouched.",
+  "assets": [
+    4,
+    85,
+    141,
+    821,
+    829
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "date": "2026-07-20",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 4,
+      "topic": "Schockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "format": "single",
+      "caption": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "caption_full": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\n• في صدمة نقص الحجم بسبب الإقياء أو المدرات، تعويض السوائل هو الأساس.\n• في الصدمة القلبية يجب الحذر عند إعطاء السوائل الوريدية لتجنب وذمة الرئة.\n• الصدمة التأقية تتطلب إعطاء الأدرينالين العضلي بشكل فوري كعلاج أولي.\n• في الصدمة الإنتانية، المضادات الحيوية المبكرة ومقبضات الأوعية كالنورأدرينالين ضرورية جداً.\n\nتجنّب الأخطاء الشائعة في امتحانات التعديل. ابدأ الآن مع Kennti.com!\n\n📖 المصدر: StatPearls · NCBI\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?\n\n• Bei hypovolämischem Schock durch Erbrechen oder Diuretika ist die Volumensubstitution entscheidend.\n• Beim kardiogenen Schock ist Vorsicht mit intravenöser Flüssigkeit geboten, um ein Lungenödem zu vermeiden.\n• Der anaphylaktische Schock erfordert die sofortige intramuskuläre Gabe von Adrenalin als Therapie der ersten Wahl.\n• Beim septischen Schock sind eine frühzeitige Antibiose und Vasopressoren wie Noradrenalin essenziell.\n\nVermeiden Sie typische Fehler in der FSP und KP. Starten Sie jetzt auf Kennti.com!\n\n📖 Quelle: StatPearls · NCBI Bookshelf\n\n#Kennti #FSP #KP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/268a5f2e7a710431.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 2,
+      "date": "2026-07-20",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 85,
+      "topic": "Wichtige Anamnesefragen beim akuten Abdomen.",
+      "format": "carousel",
+      "caption": "أسئلة هامة في قصة البطن الحاد.\n\n• عند الاشتباه بالقرحة، اسأل عن ألم الجوع أو الألم بعد الأكل.\n• الميل للإمساك قد يشير إلى اضطرابات العبور المعوي أو الفتوق.\n• العمليات السابقة تعتبر عامل خطر هام للانسداد المعوي الالتصاقي.\n• ارتفاع الضغط داخل البطن يعزز من تشكل الفتوق.\n\nاستعدّ لامتحان الفحص الطبي بشكل مثالي على Kennti.com!\n\n📖 المصدر: NCBI · PMC7149818\n\nWichtige Anamnesefragen beim akuten Abdomen.\n\n• Bei Ulkusverdacht nach Nüchternschmerz oder postprandialen Schmerzen fragen.\n• Eine Obstipationsneigung kann auf Passagestörungen oder Hernien hinweisen.\n• Voroperationen sind ein wichtiger Risikofaktor für einen Bridenileus.\n• Erhöhter intraabdomineller Druck begünstigt die Entstehung von Hernien.\n\nBereite dich optimal auf die FSP vor auf Kennti.com!\n\n📖 Quelle: NCBI · PMC7149818\n\n#Kennti #FSP #Kenntnisprüfung #Chirurgie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/63ccdf9d592e2f75.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/02117043fc8944b2.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/aa5c434f5049aef9.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 3,
+      "date": "2026-07-20",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 141,
+      "topic": "Kennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "format": "single",
+      "caption": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "caption_full": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\n• الإنتان خلل وظيفي مُهدِّد للحياة في الأعضاء ناتج عن استجابة غير منظَّمة للعدوى.\n• qSOFA أداة فرز سريرية للخطر خارج العناية المركّزة، وليست معياراً لتشخيص الإنتان (التشخيص يحتاج ارتفاع مقياس SOFA بنقطتين أو أكثر).\n• معايير qSOFA الثلاثة: معدّل تنفّس 22 في الدقيقة أو أكثر، ضغط انقباضي 100 أو أقل، ومقياس غلاسكو أقل من 15.\n• يُعتبر qSOFA إيجابياً عند تحقّق معيارين على الأقل من الثلاثة.\n\nتجدون المزيد من النصائح الهامة للامتحان في دورة Kennti!\n\n📖 المصدر: AWMF · دليل 079-001\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?\n\n• Sepsis ist eine lebensbedrohliche Organdysfunktion durch eine fehlregulierte Wirtsantwort auf eine Infektion.\n• qSOFA ist ein bettseitiges Screening-Instrument, kein Diagnosekriterium — die Sepsis-Diagnose erfordert einen SOFA-Anstieg ≥2 Punkte.\n• Die drei qSOFA-Kriterien: Atemfrequenz ≥22/min, systolischer Blutdruck ≤100 mmHg und GCS <15.\n• qSOFA gilt als positiv, wenn mindestens 2 der 3 Kriterien erfüllt sind.\n\nWeitere wichtige Prüfungstipps finden Sie im Kennti-Kurs!\n\n📖 Quelle: AWMF · Leitlinie 079-001\n\n#Kennti #Kenntnisprüfung #FSP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/5fa7fe970aaa1bfa.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 4,
+      "date": "2026-07-21",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 821,
+      "topic": "Berufserlaubnis oder Approbation? Kennen Sie den Unterschied?",
+      "format": "single",
+      "caption": "تصريح العمل أم الأبروباتسيون؟ اعرف الفرق قبل الامتحان.\n\n• الأبروباتسيون هو ترخيص مزاولة المهنة الدائم والشامل في ألمانيا.\n• تصريح العمل مؤقت، محدد بمكان، ويتطلب العمل تحت الإشراف.\n• المسار المعتاد: تصريح العمل، ثم امتحان المعرفة، وأخيراً الأبروباتسيون.\n\nجهّز مستقبلك في ألمانيا الطبّية مع دورات كينتي!\n\n📖 المصدر: Bundesärzteordnung §10\n\nBerufserlaubnis oder Approbation? Kennen Sie den Unterschied?\n\n• Die Approbation ist die unbefristete, bundesweit gültige Berufsausübungserlaubnis.\n• Die Berufserlaubnis ist befristet, ortsgebunden und erfordert ärztliche Aufsicht.\n• Der typische Weg: Berufserlaubnis, dann Kenntnisprüfung, schließlich Approbation.\n\nBereite deinen medizinischen Weg in Deutschland mit Kennti vor!\n\n📖 Quelle: Bundesärzteordnung §10 (BÄO)\n\n#Kennti #Approbation #Kenntnisprüfung #Medizinstudium",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/3fe6d9470b5519f5.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 5,
+      "date": "2026-07-21",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 829,
+      "topic": "Der psychopathologische Befund: Beschreiben statt vorschnell deuten!",
+      "format": "carousel",
+      "caption": "الفحص النفسي المرضي: الوصف أولاً قبل التفسير!\n\n• يوفر نظام AMDP لغة مشتركة ومنظمة لكتابة التقرير النفسي.\n• قيّم منهجياً: الوعي، التوجّه، التفكير، الإدراك، الوجدان، والدافعية — ليس فقط بعضها.\n• صف بموضوعية (مثل «تراجع الدافعية») بدلاً من التشخيص المباشر.\n• الفصل الصارم بين الملاحظة والتشخيص يحميك من الأحكام الخاطئة.\n\nأتقن الفحص النفسي المرضي لامتحانات FSP و KP مع دورات Kennti!\n\n📖 المصدر: NCBI · PMC5383714\n\nDer psychopathologische Befund: Beschreiben statt vorschnell deuten!\n\n• Das AMDP-System bietet eine strukturierte, gemeinsame Sprache für den Befund.\n• Erfassen Sie systematisch: Bewusstsein, Orientierung, Denken, Wahrnehmung, Affekt UND Antrieb — nie selektiv.\n• Beschreiben Sie objektiv (z.B. Antrieb reduziert), statt direkt zu diagnostizieren.\n• Die strikte Trennung von Beobachtung und Diagnose schützt vor Fehlurteilen.\n\nMeistern Sie den psychopathologischen Befund für die FSP/KP mit Kennti!\n\n📖 Quelle: NCBI · PMC5383714\n\n#Kennti #FSP #KP #Psychopathologie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/73fb0dd2d0723590.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/a6028eb514c58ccd.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/47df3049cf42158a.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 6,
+      "date": "2026-07-21",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 4,
+      "topic": "Schockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "format": "single",
+      "caption": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "caption_full": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\n• في صدمة نقص الحجم بسبب الإقياء أو المدرات، تعويض السوائل هو الأساس.\n• في الصدمة القلبية يجب الحذر عند إعطاء السوائل الوريدية لتجنب وذمة الرئة.\n• الصدمة التأقية تتطلب إعطاء الأدرينالين العضلي بشكل فوري كعلاج أولي.\n• في الصدمة الإنتانية، المضادات الحيوية المبكرة ومقبضات الأوعية كالنورأدرينالين ضرورية جداً.\n\nتجنّب الأخطاء الشائعة في امتحانات التعديل. ابدأ الآن مع Kennti.com!\n\n📖 المصدر: StatPearls · NCBI\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?\n\n• Bei hypovolämischem Schock durch Erbrechen oder Diuretika ist die Volumensubstitution entscheidend.\n• Beim kardiogenen Schock ist Vorsicht mit intravenöser Flüssigkeit geboten, um ein Lungenödem zu vermeiden.\n• Der anaphylaktische Schock erfordert die sofortige intramuskuläre Gabe von Adrenalin als Therapie der ersten Wahl.\n• Beim septischen Schock sind eine frühzeitige Antibiose und Vasopressoren wie Noradrenalin essenziell.\n\nVermeiden Sie typische Fehler in der FSP und KP. Starten Sie jetzt auf Kennti.com!\n\n📖 Quelle: StatPearls · NCBI Bookshelf\n\n#Kennti #FSP #KP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/9e5ff0a42665e548.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 7,
+      "date": "2026-07-22",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 85,
+      "topic": "Wichtige Anamnesefragen beim akuten Abdomen.",
+      "format": "single",
+      "caption": "أسئلة هامة في قصة البطن الحاد.\n\n• عند الاشتباه بالقرحة، اسأل عن ألم الجوع أو الألم بعد الأكل.\n• الميل للإمساك قد يشير إلى اضطرابات العبور المعوي أو الفتوق.\n• العمليات السابقة تعتبر عامل خطر هام للانسداد المعوي الالتصاقي.\n• ارتفاع الضغط داخل البطن يعزز من تشكل الفتوق.\n\nاستعدّ لامتحان الفحص الطبي بشكل مثالي على Kennti.com!\n\n📖 المصدر: NCBI · PMC7149818\n\nWichtige Anamnesefragen beim akuten Abdomen.\n\n• Bei Ulkusverdacht nach Nüchternschmerz oder postprandialen Schmerzen fragen.\n• Eine Obstipationsneigung kann auf Passagestörungen oder Hernien hinweisen.\n• Voroperationen sind ein wichtiger Risikofaktor für einen Bridenileus.\n• Erhöhter intraabdomineller Druck begünstigt die Entstehung von Hernien.\n\nBereite dich optimal auf die FSP vor auf Kennti.com!\n\n📖 Quelle: NCBI · PMC7149818\n\n#Kennti #FSP #Kenntnisprüfung #Chirurgie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/63ccdf9d592e2f75.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 8,
+      "date": "2026-07-22",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 141,
+      "topic": "Kennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "format": "carousel",
+      "caption": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "caption_full": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\n• الإنتان خلل وظيفي مُهدِّد للحياة في الأعضاء ناتج عن استجابة غير منظَّمة للعدوى.\n• qSOFA أداة فرز سريرية للخطر خارج العناية المركّزة، وليست معياراً لتشخيص الإنتان (التشخيص يحتاج ارتفاع مقياس SOFA بنقطتين أو أكثر).\n• معايير qSOFA الثلاثة: معدّل تنفّس 22 في الدقيقة أو أكثر، ضغط انقباضي 100 أو أقل، ومقياس غلاسكو أقل من 15.\n• يُعتبر qSOFA إيجابياً عند تحقّق معيارين على الأقل من الثلاثة.\n\nتجدون المزيد من النصائح الهامة للامتحان في دورة Kennti!\n\n📖 المصدر: AWMF · دليل 079-001\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?\n\n• Sepsis ist eine lebensbedrohliche Organdysfunktion durch eine fehlregulierte Wirtsantwort auf eine Infektion.\n• qSOFA ist ein bettseitiges Screening-Instrument, kein Diagnosekriterium — die Sepsis-Diagnose erfordert einen SOFA-Anstieg ≥2 Punkte.\n• Die drei qSOFA-Kriterien: Atemfrequenz ≥22/min, systolischer Blutdruck ≤100 mmHg und GCS <15.\n• qSOFA gilt als positiv, wenn mindestens 2 der 3 Kriterien erfüllt sind.\n\nWeitere wichtige Prüfungstipps finden Sie im Kennti-Kurs!\n\n📖 Quelle: AWMF · Leitlinie 079-001\n\n#Kennti #Kenntnisprüfung #FSP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/4358b8f14549c8b6.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/9fd545417b767f52.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/751f8145c420a1fe.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/38e83bdf9ca90062.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/168fbaf8c390bbc5.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/4ff4c2b5bd30b79f.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/9dcd714886537900.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/97e78a3ae42e4703.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 9,
+      "date": "2026-07-22",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 821,
+      "topic": "Berufserlaubnis oder Approbation? Kennen Sie den Unterschied?",
+      "format": "single",
+      "caption": "تصريح العمل أم الأبروباتسيون؟ اعرف الفرق قبل الامتحان.\n\n• الأبروباتسيون هو ترخيص مزاولة المهنة الدائم والشامل في ألمانيا.\n• تصريح العمل مؤقت، محدد بمكان، ويتطلب العمل تحت الإشراف.\n• المسار المعتاد: تصريح العمل، ثم امتحان المعرفة، وأخيراً الأبروباتسيون.\n\nجهّز مستقبلك في ألمانيا الطبّية مع دورات كينتي!\n\n📖 المصدر: Bundesärzteordnung §10\n\nBerufserlaubnis oder Approbation? Kennen Sie den Unterschied?\n\n• Die Approbation ist die unbefristete, bundesweit gültige Berufsausübungserlaubnis.\n• Die Berufserlaubnis ist befristet, ortsgebunden und erfordert ärztliche Aufsicht.\n• Der typische Weg: Berufserlaubnis, dann Kenntnisprüfung, schließlich Approbation.\n\nBereite deinen medizinischen Weg in Deutschland mit Kennti vor!\n\n📖 Quelle: Bundesärzteordnung §10 (BÄO)\n\n#Kennti #Approbation #Kenntnisprüfung #Medizinstudium",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/d5f24b7ab0d2ba64.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 10,
+      "date": "2026-07-23",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 829,
+      "topic": "Der psychopathologische Befund: Beschreiben statt vorschnell deuten!",
+      "format": "single",
+      "caption": "الفحص النفسي المرضي: الوصف أولاً قبل التفسير!\n\n• يوفر نظام AMDP لغة مشتركة ومنظمة لكتابة التقرير النفسي.\n• قيّم منهجياً: الوعي، التوجّه، التفكير، الإدراك، الوجدان، والدافعية — ليس فقط بعضها.\n• صف بموضوعية (مثل «تراجع الدافعية») بدلاً من التشخيص المباشر.\n• الفصل الصارم بين الملاحظة والتشخيص يحميك من الأحكام الخاطئة.\n\nأتقن الفحص النفسي المرضي لامتحانات FSP و KP مع دورات Kennti!\n\n📖 المصدر: NCBI · PMC5383714\n\nDer psychopathologische Befund: Beschreiben statt vorschnell deuten!\n\n• Das AMDP-System bietet eine strukturierte, gemeinsame Sprache für den Befund.\n• Erfassen Sie systematisch: Bewusstsein, Orientierung, Denken, Wahrnehmung, Affekt UND Antrieb — nie selektiv.\n• Beschreiben Sie objektiv (z.B. Antrieb reduziert), statt direkt zu diagnostizieren.\n• Die strikte Trennung von Beobachtung und Diagnose schützt vor Fehlurteilen.\n\nMeistern Sie den psychopathologischen Befund für die FSP/KP mit Kennti!\n\n📖 Quelle: NCBI · PMC5383714\n\n#Kennti #FSP #KP #Psychopathologie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/73fb0dd2d0723590.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 11,
+      "date": "2026-07-23",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 4,
+      "topic": "Schockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "format": "carousel",
+      "caption": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "caption_full": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\n• في صدمة نقص الحجم بسبب الإقياء أو المدرات، تعويض السوائل هو الأساس.\n• في الصدمة القلبية يجب الحذر عند إعطاء السوائل الوريدية لتجنب وذمة الرئة.\n• الصدمة التأقية تتطلب إعطاء الأدرينالين العضلي بشكل فوري كعلاج أولي.\n• في الصدمة الإنتانية، المضادات الحيوية المبكرة ومقبضات الأوعية كالنورأدرينالين ضرورية جداً.\n\nتجنّب الأخطاء الشائعة في امتحانات التعديل. ابدأ الآن مع Kennti.com!\n\n📖 المصدر: StatPearls · NCBI\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?\n\n• Bei hypovolämischem Schock durch Erbrechen oder Diuretika ist die Volumensubstitution entscheidend.\n• Beim kardiogenen Schock ist Vorsicht mit intravenöser Flüssigkeit geboten, um ein Lungenödem zu vermeiden.\n• Der anaphylaktische Schock erfordert die sofortige intramuskuläre Gabe von Adrenalin als Therapie der ersten Wahl.\n• Beim septischen Schock sind eine frühzeitige Antibiose und Vasopressoren wie Noradrenalin essenziell.\n\nVermeiden Sie typische Fehler in der FSP und KP. Starten Sie jetzt auf Kennti.com!\n\n📖 Quelle: StatPearls · NCBI Bookshelf\n\n#Kennti #FSP #KP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/268a5f2e7a710431.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/9e5ff0a42665e548.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/d5b97fa92d6f1633.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 12,
+      "date": "2026-07-23",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 85,
+      "topic": "Wichtige Anamnesefragen beim akuten Abdomen.",
+      "format": "single",
+      "caption": "أسئلة هامة في قصة البطن الحاد.\n\n• عند الاشتباه بالقرحة، اسأل عن ألم الجوع أو الألم بعد الأكل.\n• الميل للإمساك قد يشير إلى اضطرابات العبور المعوي أو الفتوق.\n• العمليات السابقة تعتبر عامل خطر هام للانسداد المعوي الالتصاقي.\n• ارتفاع الضغط داخل البطن يعزز من تشكل الفتوق.\n\nاستعدّ لامتحان الفحص الطبي بشكل مثالي على Kennti.com!\n\n📖 المصدر: NCBI · PMC7149818\n\nWichtige Anamnesefragen beim akuten Abdomen.\n\n• Bei Ulkusverdacht nach Nüchternschmerz oder postprandialen Schmerzen fragen.\n• Eine Obstipationsneigung kann auf Passagestörungen oder Hernien hinweisen.\n• Voroperationen sind ein wichtiger Risikofaktor für einen Bridenileus.\n• Erhöhter intraabdomineller Druck begünstigt die Entstehung von Hernien.\n\nBereite dich optimal auf die FSP vor auf Kennti.com!\n\n📖 Quelle: NCBI · PMC7149818\n\n#Kennti #FSP #Kenntnisprüfung #Chirurgie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/02117043fc8944b2.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 13,
+      "date": "2026-07-24",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 141,
+      "topic": "Kennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "format": "single",
+      "caption": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "caption_full": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\n• الإنتان خلل وظيفي مُهدِّد للحياة في الأعضاء ناتج عن استجابة غير منظَّمة للعدوى.\n• qSOFA أداة فرز سريرية للخطر خارج العناية المركّزة، وليست معياراً لتشخيص الإنتان (التشخيص يحتاج ارتفاع مقياس SOFA بنقطتين أو أكثر).\n• معايير qSOFA الثلاثة: معدّل تنفّس 22 في الدقيقة أو أكثر، ضغط انقباضي 100 أو أقل، ومقياس غلاسكو أقل من 15.\n• يُعتبر qSOFA إيجابياً عند تحقّق معيارين على الأقل من الثلاثة.\n\nتجدون المزيد من النصائح الهامة للامتحان في دورة Kennti!\n\n📖 المصدر: AWMF · دليل 079-001\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?\n\n• Sepsis ist eine lebensbedrohliche Organdysfunktion durch eine fehlregulierte Wirtsantwort auf eine Infektion.\n• qSOFA ist ein bettseitiges Screening-Instrument, kein Diagnosekriterium — die Sepsis-Diagnose erfordert einen SOFA-Anstieg ≥2 Punkte.\n• Die drei qSOFA-Kriterien: Atemfrequenz ≥22/min, systolischer Blutdruck ≤100 mmHg und GCS <15.\n• qSOFA gilt als positiv, wenn mindestens 2 der 3 Kriterien erfüllt sind.\n\nWeitere wichtige Prüfungstipps finden Sie im Kennti-Kurs!\n\n📖 Quelle: AWMF · Leitlinie 079-001\n\n#Kennti #Kenntnisprüfung #FSP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/c783d3a08f26f4ad.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 14,
+      "date": "2026-07-24",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 821,
+      "topic": "Berufserlaubnis oder Approbation? Kennen Sie den Unterschied?",
+      "format": "carousel",
+      "caption": "تصريح العمل أم الأبروباتسيون؟ اعرف الفرق قبل الامتحان.\n\n• الأبروباتسيون هو ترخيص مزاولة المهنة الدائم والشامل في ألمانيا.\n• تصريح العمل مؤقت، محدد بمكان، ويتطلب العمل تحت الإشراف.\n• المسار المعتاد: تصريح العمل، ثم امتحان المعرفة، وأخيراً الأبروباتسيون.\n\nجهّز مستقبلك في ألمانيا الطبّية مع دورات كينتي!\n\n📖 المصدر: Bundesärzteordnung §10\n\nBerufserlaubnis oder Approbation? Kennen Sie den Unterschied?\n\n• Die Approbation ist die unbefristete, bundesweit gültige Berufsausübungserlaubnis.\n• Die Berufserlaubnis ist befristet, ortsgebunden und erfordert ärztliche Aufsicht.\n• Der typische Weg: Berufserlaubnis, dann Kenntnisprüfung, schließlich Approbation.\n\nBereite deinen medizinischen Weg in Deutschland mit Kennti vor!\n\n📖 Quelle: Bundesärzteordnung §10 (BÄO)\n\n#Kennti #Approbation #Kenntnisprüfung #Medizinstudium",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/3fe6d9470b5519f5.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/d5f24b7ab0d2ba64.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/86f17c194dcaf657.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 15,
+      "date": "2026-07-24",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 829,
+      "topic": "Der psychopathologische Befund: Beschreiben statt vorschnell deuten!",
+      "format": "single",
+      "caption": "الفحص النفسي المرضي: الوصف أولاً قبل التفسير!\n\n• يوفر نظام AMDP لغة مشتركة ومنظمة لكتابة التقرير النفسي.\n• قيّم منهجياً: الوعي، التوجّه، التفكير، الإدراك، الوجدان، والدافعية — ليس فقط بعضها.\n• صف بموضوعية (مثل «تراجع الدافعية») بدلاً من التشخيص المباشر.\n• الفصل الصارم بين الملاحظة والتشخيص يحميك من الأحكام الخاطئة.\n\nأتقن الفحص النفسي المرضي لامتحانات FSP و KP مع دورات Kennti!\n\n📖 المصدر: NCBI · PMC5383714\n\nDer psychopathologische Befund: Beschreiben statt vorschnell deuten!\n\n• Das AMDP-System bietet eine strukturierte, gemeinsame Sprache für den Befund.\n• Erfassen Sie systematisch: Bewusstsein, Orientierung, Denken, Wahrnehmung, Affekt UND Antrieb — nie selektiv.\n• Beschreiben Sie objektiv (z.B. Antrieb reduziert), statt direkt zu diagnostizieren.\n• Die strikte Trennung von Beobachtung und Diagnose schützt vor Fehlurteilen.\n\nMeistern Sie den psychopathologischen Befund für die FSP/KP mit Kennti!\n\n📖 Quelle: NCBI · PMC5383714\n\n#Kennti #FSP #KP #Psychopathologie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/a6028eb514c58ccd.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 16,
+      "date": "2026-07-25",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 4,
+      "topic": "Schockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "format": "single",
+      "caption": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "caption_full": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\n• في صدمة نقص الحجم بسبب الإقياء أو المدرات، تعويض السوائل هو الأساس.\n• في الصدمة القلبية يجب الحذر عند إعطاء السوائل الوريدية لتجنب وذمة الرئة.\n• الصدمة التأقية تتطلب إعطاء الأدرينالين العضلي بشكل فوري كعلاج أولي.\n• في الصدمة الإنتانية، المضادات الحيوية المبكرة ومقبضات الأوعية كالنورأدرينالين ضرورية جداً.\n\nتجنّب الأخطاء الشائعة في امتحانات التعديل. ابدأ الآن مع Kennti.com!\n\n📖 المصدر: StatPearls · NCBI\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?\n\n• Bei hypovolämischem Schock durch Erbrechen oder Diuretika ist die Volumensubstitution entscheidend.\n• Beim kardiogenen Schock ist Vorsicht mit intravenöser Flüssigkeit geboten, um ein Lungenödem zu vermeiden.\n• Der anaphylaktische Schock erfordert die sofortige intramuskuläre Gabe von Adrenalin als Therapie der ersten Wahl.\n• Beim septischen Schock sind eine frühzeitige Antibiose und Vasopressoren wie Noradrenalin essenziell.\n\nVermeiden Sie typische Fehler in der FSP und KP. Starten Sie jetzt auf Kennti.com!\n\n📖 Quelle: StatPearls · NCBI Bookshelf\n\n#Kennti #FSP #KP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/268a5f2e7a710431.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 17,
+      "date": "2026-07-25",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 85,
+      "topic": "Wichtige Anamnesefragen beim akuten Abdomen.",
+      "format": "carousel",
+      "caption": "أسئلة هامة في قصة البطن الحاد.\n\n• عند الاشتباه بالقرحة، اسأل عن ألم الجوع أو الألم بعد الأكل.\n• الميل للإمساك قد يشير إلى اضطرابات العبور المعوي أو الفتوق.\n• العمليات السابقة تعتبر عامل خطر هام للانسداد المعوي الالتصاقي.\n• ارتفاع الضغط داخل البطن يعزز من تشكل الفتوق.\n\nاستعدّ لامتحان الفحص الطبي بشكل مثالي على Kennti.com!\n\n📖 المصدر: NCBI · PMC7149818\n\nWichtige Anamnesefragen beim akuten Abdomen.\n\n• Bei Ulkusverdacht nach Nüchternschmerz oder postprandialen Schmerzen fragen.\n• Eine Obstipationsneigung kann auf Passagestörungen oder Hernien hinweisen.\n• Voroperationen sind ein wichtiger Risikofaktor für einen Bridenileus.\n• Erhöhter intraabdomineller Druck begünstigt die Entstehung von Hernien.\n\nBereite dich optimal auf die FSP vor auf Kennti.com!\n\n📖 Quelle: NCBI · PMC7149818\n\n#Kennti #FSP #Kenntnisprüfung #Chirurgie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/63ccdf9d592e2f75.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/02117043fc8944b2.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/aa5c434f5049aef9.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 18,
+      "date": "2026-07-25",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 141,
+      "topic": "Kennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "format": "single",
+      "caption": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?",
+      "caption_full": "هل تعرف معايير qSOFA لامتحان التعديل؟\n\n• الإنتان خلل وظيفي مُهدِّد للحياة في الأعضاء ناتج عن استجابة غير منظَّمة للعدوى.\n• qSOFA أداة فرز سريرية للخطر خارج العناية المركّزة، وليست معياراً لتشخيص الإنتان (التشخيص يحتاج ارتفاع مقياس SOFA بنقطتين أو أكثر).\n• معايير qSOFA الثلاثة: معدّل تنفّس 22 في الدقيقة أو أكثر، ضغط انقباضي 100 أو أقل، ومقياس غلاسكو أقل من 15.\n• يُعتبر qSOFA إيجابياً عند تحقّق معيارين على الأقل من الثلاثة.\n\nتجدون المزيد من النصائح الهامة للامتحان في دورة Kennti!\n\n📖 المصدر: AWMF · دليل 079-001\n\nKennen Sie die qSOFA-Kriterien für die KP-Prüfung?\n\n• Sepsis ist eine lebensbedrohliche Organdysfunktion durch eine fehlregulierte Wirtsantwort auf eine Infektion.\n• qSOFA ist ein bettseitiges Screening-Instrument, kein Diagnosekriterium — die Sepsis-Diagnose erfordert einen SOFA-Anstieg ≥2 Punkte.\n• Die drei qSOFA-Kriterien: Atemfrequenz ≥22/min, systolischer Blutdruck ≤100 mmHg und GCS <15.\n• qSOFA gilt als positiv, wenn mindestens 2 der 3 Kriterien erfüllt sind.\n\nWeitere wichtige Prüfungstipps finden Sie im Kennti-Kurs!\n\n📖 Quelle: AWMF · Leitlinie 079-001\n\n#Kennti #Kenntnisprüfung #FSP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/5fa7fe970aaa1bfa.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 19,
+      "date": "2026-07-26",
+      "time": "09:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 821,
+      "topic": "Berufserlaubnis oder Approbation? Kennen Sie den Unterschied?",
+      "format": "single",
+      "caption": "تصريح العمل أم الأبروباتسيون؟ اعرف الفرق قبل الامتحان.\n\n• الأبروباتسيون هو ترخيص مزاولة المهنة الدائم والشامل في ألمانيا.\n• تصريح العمل مؤقت، محدد بمكان، ويتطلب العمل تحت الإشراف.\n• المسار المعتاد: تصريح العمل، ثم امتحان المعرفة، وأخيراً الأبروباتسيون.\n\nجهّز مستقبلك في ألمانيا الطبّية مع دورات كينتي!\n\n📖 المصدر: Bundesärzteordnung §10\n\nBerufserlaubnis oder Approbation? Kennen Sie den Unterschied?\n\n• Die Approbation ist die unbefristete, bundesweit gültige Berufsausübungserlaubnis.\n• Die Berufserlaubnis ist befristet, ortsgebunden und erfordert ärztliche Aufsicht.\n• Der typische Weg: Berufserlaubnis, dann Kenntnisprüfung, schließlich Approbation.\n\nBereite deinen medizinischen Weg in Deutschland mit Kennti vor!\n\n📖 Quelle: Bundesärzteordnung §10 (BÄO)\n\n#Kennti #Approbation #Kenntnisprüfung #Medizinstudium",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/3fe6d9470b5519f5.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 20,
+      "date": "2026-07-26",
+      "time": "13:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 829,
+      "topic": "Der psychopathologische Befund: Beschreiben statt vorschnell deuten!",
+      "format": "carousel",
+      "caption": "الفحص النفسي المرضي: الوصف أولاً قبل التفسير!\n\n• يوفر نظام AMDP لغة مشتركة ومنظمة لكتابة التقرير النفسي.\n• قيّم منهجياً: الوعي، التوجّه، التفكير، الإدراك، الوجدان، والدافعية — ليس فقط بعضها.\n• صف بموضوعية (مثل «تراجع الدافعية») بدلاً من التشخيص المباشر.\n• الفصل الصارم بين الملاحظة والتشخيص يحميك من الأحكام الخاطئة.\n\nأتقن الفحص النفسي المرضي لامتحانات FSP و KP مع دورات Kennti!\n\n📖 المصدر: NCBI · PMC5383714\n\nDer psychopathologische Befund: Beschreiben statt vorschnell deuten!\n\n• Das AMDP-System bietet eine strukturierte, gemeinsame Sprache für den Befund.\n• Erfassen Sie systematisch: Bewusstsein, Orientierung, Denken, Wahrnehmung, Affekt UND Antrieb — nie selektiv.\n• Beschreiben Sie objektiv (z.B. Antrieb reduziert), statt direkt zu diagnostizieren.\n• Die strikte Trennung von Beobachtung und Diagnose schützt vor Fehlurteilen.\n\nMeistern Sie den psychopathologischen Befund für die FSP/KP mit Kennti!\n\n📖 Quelle: NCBI · PMC5383714\n\n#Kennti #FSP #KP #Psychopathologie",
+      "caption_full": null,
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/73fb0dd2d0723590.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/a6028eb514c58ccd.png",
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/47df3049cf42158a.png"
+      ],
+      "published": false
+    },
+    {
+      "n": 21,
+      "date": "2026-07-26",
+      "time": "19:00",
+      "tz": "Europe/Berlin",
+      "platform": "telegram",
+      "asset_id": 4,
+      "topic": "Schockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "format": "single",
+      "caption": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?",
+      "caption_full": "علاج أنواع الصدمة: هل تعرف الفروق بينها؟\n\n• في صدمة نقص الحجم بسبب الإقياء أو المدرات، تعويض السوائل هو الأساس.\n• في الصدمة القلبية يجب الحذر عند إعطاء السوائل الوريدية لتجنب وذمة الرئة.\n• الصدمة التأقية تتطلب إعطاء الأدرينالين العضلي بشكل فوري كعلاج أولي.\n• في الصدمة الإنتانية، المضادات الحيوية المبكرة ومقبضات الأوعية كالنورأدرينالين ضرورية جداً.\n\nتجنّب الأخطاء الشائعة في امتحانات التعديل. ابدأ الآن مع Kennti.com!\n\n📖 المصدر: StatPearls · NCBI\n\nSchockformen richtig behandeln: Kennen Sie die Unterschiede?\n\n• Bei hypovolämischem Schock durch Erbrechen oder Diuretika ist die Volumensubstitution entscheidend.\n• Beim kardiogenen Schock ist Vorsicht mit intravenöser Flüssigkeit geboten, um ein Lungenödem zu vermeiden.\n• Der anaphylaktische Schock erfordert die sofortige intramuskuläre Gabe von Adrenalin als Therapie der ersten Wahl.\n• Beim septischen Schock sind eine frühzeitige Antibiose und Vasopressoren wie Noradrenalin essenziell.\n\nVermeiden Sie typische Fehler in der FSP und KP. Starten Sie jetzt auf Kennti.com!\n\n📖 Quelle: StatPearls · NCBI Bookshelf\n\n#Kennti #FSP #KP #Notfallmedizin",
+      "media_urls": [
+        "https://raw.githubusercontent.com/tfmabed-star/kennti-content-calendar/main/media/9e5ff0a42665e548.png"
+      ],
+      "published": false
+    }
+  ]
+}
